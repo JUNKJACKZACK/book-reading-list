@@ -7,7 +7,7 @@ under the Suggestions list through a pull request please
 and thank you. When leaving a suggestion you can leave your 
 GitHub @username if you would like.
 
-How to leave username: [@username](https://github.com/username)
+How to leave username: '[@username](https://github.com/username)'
 
 ## Favorite Books
 
