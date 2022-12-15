@@ -13,7 +13,7 @@ How to leave username: `[@username](https://github.com/username)`
 
 ## Currently Reading
 	- Clean Code by Robert C. Martin
-	### Favorite Quotes
+	## Favorite Quotes
 		**"Clean code always looks like it was written by
 		someone who cares." - Michael Feathers response
 		to Robert C. Martin the author of Clean Code.**
