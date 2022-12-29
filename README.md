@@ -17,7 +17,8 @@ How to leave username: `[@username](https://github.com/username)`
 		**"Clean code always looks like it was written by
 		someone who cares." - Michael Feathers response
 		to Robert C. Martin the author of Clean Code.**
-	
+		**"Can you imagine working on a project where the
+		code simply got better as time passed?"
 ## Suggestion List 
 
 ## Previous Read Books
