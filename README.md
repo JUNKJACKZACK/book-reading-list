@@ -22,3 +22,5 @@ How to leave username: `[@username](https://github.com/username)`
 ## Suggestion List 
 
 ## Previously Read Books
+
+Why is coding in MARKDOWN even hard... It just does not work.
